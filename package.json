@@ -1,0 +1,21 @@
+{
+  "name": "callback-terminal",
+  "version": "1.0.0",
+  "description": "A classy ES6 Javascript terminal emulator.",
+  "main": "terminal-emulator.js",
+  "repository": "https://github.com/tfricks/callback-terminal.git",
+  "author": "Tyler Fricks",
+  "license": "MIT",
+  "scripts": {
+    "webpack": "webpack"
+},
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babelify": "^8.0.0",
+    "browserify": "^14.5.0",
+    "webpack": "^3.8.1"
+  }
+}
